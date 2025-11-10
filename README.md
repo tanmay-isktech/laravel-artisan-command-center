@@ -1,2 +1,2 @@
-# laravel-artisan-command-center
+# Laravel Artisan : Command Center
 Laravel Artisan : Command Center
